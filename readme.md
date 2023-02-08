@@ -39,7 +39,7 @@ Your results page will likely include the data visualizations and other *results
 
 Static images can be embedded here to show results:
 
-![this is alt text](https://commons.wikimedia.org/wiki/File:Astronaut_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif#/media/File:Astronaut_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif)
+![this is alt text](Astronaut_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif)
 
 ## Discussion
 Your discussion section allows you to consider the impacts of your study. An unordered list is useful for this:
